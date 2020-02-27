@@ -1,0 +1,41 @@
+C:\Users\Bluefine\source\repos\AppleWindowBase\AppleWindowBase\bin\Debug\AppleWindowBase.exe.config
+C:\Users\Bluefine\source\repos\AppleWindowBase\AppleWindowBase\bin\Debug\AppleWindowBase.exe
+C:\Users\Bluefine\source\repos\AppleWindowBase\AppleWindowBase\bin\Debug\AppleWindowBase.pdb
+C:\Users\Bluefine\source\repos\AppleWindowBase\AppleWindowBase\bin\Debug\MaterialDesignColors.dll
+C:\Users\Bluefine\source\repos\AppleWindowBase\AppleWindowBase\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Bluefine\source\repos\AppleWindowBase\AppleWindowBase\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Bluefine\source\repos\AppleWindowBase\AppleWindowBase\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Bluefine\source\repos\AppleWindowBase\AppleWindowBase\obj\Debug\AppleWindowBase.csprojAssemblyReference.cache
+C:\Users\Bluefine\source\repos\AppleWindowBase\AppleWindowBase\obj\Debug\MainWindow.g.cs
+C:\Users\Bluefine\source\repos\AppleWindowBase\AppleWindowBase\obj\Debug\App.g.cs
+C:\Users\Bluefine\source\repos\AppleWindowBase\AppleWindowBase\obj\Debug\AppleWindowBase_MarkupCompile.cache
+C:\Users\Bluefine\source\repos\AppleWindowBase\AppleWindowBase\obj\Debug\AppleWindowBase_MarkupCompile.lref
+C:\Users\Bluefine\source\repos\AppleWindowBase\AppleWindowBase\obj\Debug\App.baml
+C:\Users\Bluefine\source\repos\AppleWindowBase\AppleWindowBase\obj\Debug\MainWindow.baml
+C:\Users\Bluefine\source\repos\AppleWindowBase\AppleWindowBase\obj\Debug\AppleWindowBase.g.resources
+C:\Users\Bluefine\source\repos\AppleWindowBase\AppleWindowBase\obj\Debug\AppleWindowBase.Properties.Resources.resources
+C:\Users\Bluefine\source\repos\AppleWindowBase\AppleWindowBase\obj\Debug\AppleWindowBase.csproj.GenerateResource.cache
+C:\Users\Bluefine\source\repos\AppleWindowBase\AppleWindowBase\obj\Debug\AppleWindowBase.csproj.CoreCompileInputs.cache
+C:\Users\Bluefine\source\repos\AppleWindowBase\AppleWindowBase\obj\Debug\AppleWindowBase.csproj.CopyComplete
+C:\Users\Bluefine\source\repos\AppleWindowBase\AppleWindowBase\obj\Debug\AppleWindowBase.exe
+C:\Users\Bluefine\source\repos\AppleWindowBase\AppleWindowBase\obj\Debug\AppleWindowBase.pdb
+D:\dane\dane potrzebne\AppleWindowBase\AppleWindowBase\bin\Debug\AppleWindowBase.exe.config
+D:\dane\dane potrzebne\AppleWindowBase\AppleWindowBase\bin\Debug\AppleWindowBase.exe
+D:\dane\dane potrzebne\AppleWindowBase\AppleWindowBase\bin\Debug\AppleWindowBase.pdb
+D:\dane\dane potrzebne\AppleWindowBase\AppleWindowBase\bin\Debug\MaterialDesignColors.dll
+D:\dane\dane potrzebne\AppleWindowBase\AppleWindowBase\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\dane\dane potrzebne\AppleWindowBase\AppleWindowBase\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\dane\dane potrzebne\AppleWindowBase\AppleWindowBase\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\dane\dane potrzebne\AppleWindowBase\AppleWindowBase\obj\Debug\AppleWindowBase.csprojAssemblyReference.cache
+D:\dane\dane potrzebne\AppleWindowBase\AppleWindowBase\obj\Debug\MainWindow.g.cs
+D:\dane\dane potrzebne\AppleWindowBase\AppleWindowBase\obj\Debug\App.g.cs
+D:\dane\dane potrzebne\AppleWindowBase\AppleWindowBase\obj\Debug\AppleWindowBase_MarkupCompile.cache
+D:\dane\dane potrzebne\AppleWindowBase\AppleWindowBase\obj\Debug\AppleWindowBase_MarkupCompile.lref
+D:\dane\dane potrzebne\AppleWindowBase\AppleWindowBase\obj\Debug\App.baml
+D:\dane\dane potrzebne\AppleWindowBase\AppleWindowBase\obj\Debug\MainWindow.baml
+D:\dane\dane potrzebne\AppleWindowBase\AppleWindowBase\obj\Debug\AppleWindowBase.g.resources
+D:\dane\dane potrzebne\AppleWindowBase\AppleWindowBase\obj\Debug\AppleWindowBase.Properties.Resources.resources
+D:\dane\dane potrzebne\AppleWindowBase\AppleWindowBase\obj\Debug\AppleWindowBase.csproj.GenerateResource.cache
+D:\dane\dane potrzebne\AppleWindowBase\AppleWindowBase\obj\Debug\AppleWindowBase.csproj.CopyComplete
+D:\dane\dane potrzebne\AppleWindowBase\AppleWindowBase\obj\Debug\AppleWindowBase.exe
+D:\dane\dane potrzebne\AppleWindowBase\AppleWindowBase\obj\Debug\AppleWindowBase.pdb
